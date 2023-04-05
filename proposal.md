@@ -28,7 +28,7 @@ I will definitely learn how about API's and web hooks. I will definitely write t
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-A better 
+A better outcome would be getting a webhook to get out of the software and functioning to the source code.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
