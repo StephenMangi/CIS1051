@@ -10,7 +10,7 @@ Rahad Nabid
 
 #### Project title
 
-TODO
+Principle Relationship Assignment
 
 ***
 
