@@ -1,0 +1,14 @@
+## Hello, the link for my Final Project is below:
+
+## https://youtu.be/31vLKV2oXaY
+
+## In this project, I didn't have to use a python script to solve the issue. I found a much easier way to accomplish this problem
+
+'''
+The problem at hand were errors being made by employees that were causing more work on the end of our administration team. 
+The errors were coming in through customer PO's and making the internal orders team duplicate work. This could be prevented by making the field
+automated and not user determinable. This information is stored in apptivo (NSI's CRM) and could be used appropriately. 
+I thought I would have to use a webhook out of the CRM to a code hosting server in order to get this done. After digging into the Apptivo's API,
+I realized I could use information that is already stored in the CRM. I created an attribute that references the principle relationship to assign
+the PDF template to the principle's relationship. 
+'''
